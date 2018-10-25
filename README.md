@@ -4,10 +4,4 @@
 ### **Run > rails db:reset**
 Les tables présentes en base : 
 ###### 
-###### 
-###### 
-###### 
-###### 
-
-### Quelques Commandes
-
+######
